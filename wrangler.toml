@@ -1,0 +1,6 @@
+name = "cloudflarehomework"
+type = "webpack"
+account_id = "0258ade187618d203f63fec443286cc8"
+workers_dev = true
+route = ""
+zone_id = ""
